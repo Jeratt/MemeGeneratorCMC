@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemeDB</string>
+    <string name="first_text_gen">FIRST TEXT</string>
+    <string name="back_text_gen">BACK</string>
+    <string name="second_text_gen">SECOND TEXT</string>
+    <string name="generate_gen">GENERATE</string>
+    <string name="meme_template_text">Meme Template</string>
+    <string name="enter_text_gen">Enter text:</string>
+</resources>
